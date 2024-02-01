@@ -1,0 +1,72 @@
+.d-flex{
+    margin-left: 73%;
+    background-size: cover;
+}
+
+h1{
+margin-top: 5%;
+color: black;
+text-align: center;
+font-family: 'Fira Sans', sans-serif
+}
+
+.main{
+     color: aliceblue;
+    margin-top: 5%; 
+  text-align: center;
+    
+}
+.btn{
+    background:linear-gradient(to left top,rgb(115, 30, 136),blue) ;
+   color: aliceblue;
+}
+.para{
+    font-weight: bolder;
+    margin-top: 2%;
+    width:100%;
+    text-align: justify;
+}
+.carousel-inner{
+    margin-top: 1%;
+    width: 100%;
+    height: 60vh;
+    background-size: cover;
+    
+}
+.carousel-inner img{
+    background-image: cover;
+    width: 80%;
+    height: 65vh;
+    background-size: cover;
+}
+.card{
+    margin: 5%;
+    width: 60%;
+    margin-left: 20%;
+    background-size: cover;
+}
+.footer{
+    background:linear-gradient(to left top,black,rgb(196, 60, 173),black);
+    height: 40vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 1%;
+    justify-content: center;
+    align-items: center;
+}
+.footer h1{
+    color: aliceblue;
+}
+.svg a{
+  color: white;  
+  margin-left: 30px;
+}
+.container{
+    
+   margin-top: 2%; 
+}
+h4{
+    color:crimson;
+    text-shadow:2px 2px yellow;
+}
